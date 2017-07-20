@@ -1,2 +1,2 @@
-# ETS-Live-Stream
-PSCC/ETS Live Stream Page
+# PSCC-Live-Stream-Page
+Video streaming page for Pellissippi State.
